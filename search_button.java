@@ -1,3 +1,5 @@
+//Author: Nicole C.
+
 package homework_week9;
 
 import org.openqa.selenium.By;
